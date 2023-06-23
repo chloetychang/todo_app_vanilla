@@ -1,4 +1,5 @@
 # todo_app_vanilla
+Inspired by this online tutorial: https://www.youtube.com/watch?v=ykuD2QOZkhc
 
 ## Basic requirements for this todo app:
 - Ability to create a new task (Done!!)
