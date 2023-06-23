@@ -1,0 +1,23 @@
+.body {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.headings {
+    text-align: center;
+}
+
+.myline{
+    width: 400px;
+}
+
+.box {
+    padding: 26px;
+    border: 200px;
+    border-radius: 30px;
+    height: 60000px;
+    width: 750px;
+    margin: auto;
+    align-content: center;
+    background-color: pink;
+}
