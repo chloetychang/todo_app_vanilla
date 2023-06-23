@@ -1,6 +1,4 @@
 # todo_app_vanilla
-### Coders For Causes Task as preparation for 2023 Winter Projects
-Will do further modifications of this web-app on my personal profile from now on (instead of within CodersForLearning)
 
 ## Basic requirements for this todo app:
 - Ability to create a new task (Done!!)
